@@ -12,9 +12,8 @@ Ensure that you have a pair of images for feature extraction. Update the file pa
 
 ### Run the Code:
 Execute the code using the following command:
-
-### Copy code:
 python3 sift_feature_extraction.py
+
 The code will extract SIFT features from the provided images and generate a new image (matchedImage.jpg) displaying the matched features.
 
 ### Review Results:
